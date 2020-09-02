@@ -1,0 +1,7 @@
+{
+  "name": "BeHe",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
